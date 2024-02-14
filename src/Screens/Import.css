@@ -1,0 +1,32 @@
+  .navbar {
+    text-align: center;
+  }
+
+  .heading{
+    display: inline;
+    margin: 0;
+    padding: 0;
+  } 
+
+  .predicts{
+    color : purple;
+  }
+
+  .ig{
+    margin-left: 27%;
+  }
+
+  .display{
+    margin-left: 30%;
+  }
+
+  .fr {
+    text-align: center;
+    margin-top: auto;
+    background: #454343;
+  }
+  
+  .ft {
+    font-size: 20px; 
+    color: white; 
+  }

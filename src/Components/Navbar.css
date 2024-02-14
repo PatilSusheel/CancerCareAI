@@ -1,0 +1,15 @@
+.bars{
+    display: flex;
+    margin-right: 2%;
+    gap:40px
+}
+
+.nav{
+    position: sticky;
+    top: 0;
+}
+
+
+.import{
+    text-align: end;
+}

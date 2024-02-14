@@ -1,0 +1,6 @@
+.image-container {
+    position: fixed;
+    top: 50%;
+    right: 20%; /* Adjust this value to move the image towards the left */
+    transform: translateY(-50%);
+  }
