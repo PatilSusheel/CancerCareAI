@@ -9,6 +9,17 @@ Welcome to our comprehensive web application designed to assist users in predict
 git clone https://github.com/PatilSusheel/CancerCareAI.git
 cd CancerCareAI
 ```
+### 2. commands to start frontend:
+This will install all the node_modules into the folder
+``` bash
+npm i
+npm start
+```
+### 3. commands to start backend:
+```bash
+pip install -r requirements.txt
+python app.py
+```
 
 ## Features
 - **User Authentication:** Secure registration and login system to access the application's features.
