@@ -55,3 +55,12 @@ download link for BreakHis Dataset : [dataset](https://data.mendeley.com/dataset
 
 
 Feel free to contribute and make this project even better!
+
+<details>
+<summary>More</summary>
+
+Issues :point_right: : [Here](https://github.com/PatilSusheel/CancerCareAI/issues)<br>
+Feel free to discuss :point_right: : [Here](https://github.com/PatilSusheel/CancerCareAI/discussions)
+
+</details>
+
