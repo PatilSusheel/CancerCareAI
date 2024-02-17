@@ -5,8 +5,8 @@ Welcome to our comprehensive web application designed to assist users in predict
 
 ## Installation
 ### 1. clone the repository:
-git clone https://github.com/PatilSusheel/CancerCareAI.git
-cd CancerCareAI
+### git clone https://github.com/PatilSusheel/CancerCareAI.git
+### cd CancerCareAI
 
 ## Features
 - **User Authentication:** Secure registration and login system to access the application's features.
