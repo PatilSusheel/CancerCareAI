@@ -3,6 +3,11 @@
 ## Introduction
 Welcome to our comprehensive web application designed to assist users in predicting breast cancer outcomes using histopathology images of breasts. Our application seamlessly integrates MongoDB for data storage, React for the frontend user interface, Flask for the backend API, and a deep learning model for prediction.
 
+## Installation
+### 1. clone the repository:
+git clone https://github.com/PatilSusheel/CancerCareAI.git
+cd CancerCareAI
+
 ## Features
 - **User Authentication:** Secure registration and login system to access the application's features.
 - **Appointment Booking:** Schedule appointments for breast cancer screenings.
