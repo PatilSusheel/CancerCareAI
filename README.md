@@ -50,6 +50,6 @@ Our Breast Cancer Prediction Web Application provides a valuable tool for users 
 
 ## Note
 You need histopathology images as input for the model
-you can view it in [test_images](https://github.com/PatilSusheel/CancerCareAI/test_images)
+you can view it in [test_images folder](https://github.com/PatilSusheel/CancerCareAI/tree/main/test_images)
 
 Feel free to contribute and make this project even better!
