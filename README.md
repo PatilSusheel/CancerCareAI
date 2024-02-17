@@ -48,8 +48,10 @@ python app.py
 ## Conclusion
 Our Breast Cancer Prediction Web Application provides a valuable tool for users to schedule screenings, upload histopathology images, and receive predictive outcomes using advanced deep learning techniques. By leveraging MongoDB, React, Flask, and a predictive model, we aim to contribute to early detection and improved outcomes in breast cancer diagnosis.
 
-## Note
-You need histopathology images as input for the model
-you can view it in [test_images folder](https://github.com/PatilSusheel/CancerCareAI/tree/main/test_images)
+## Additional Information
+you can train the model on histopathology images<br>
+you can view sample images here : [test_images folder](https://github.com/PatilSusheel/CancerCareAI/tree/main/test_images)<br>
+download link for BreakHis Dataset : [dataset](https://data.mendeley.com/datasets/jxwvdwhpc2/1)
+
 
 Feel free to contribute and make this project even better!
